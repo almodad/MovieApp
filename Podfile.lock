@@ -1,0 +1,26 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Facebook-iOS-SDK (3.24.4):
+    - Bolts (~> 1.2)
+  - LetMeAuth (2.0.0)
+  - LetMeAuth-FacebookSDK-iOS (2.0.0):
+    - Facebook-iOS-SDK (~> 3.21)
+    - LetMeAuth (~> 2.0)
+
+DEPENDENCIES:
+  - LetMeAuth-FacebookSDK-iOS (~> 2.0)
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Facebook-iOS-SDK: 5a7c414a084708220b72d5fd016f2cf3eb6deda4
+  LetMeAuth: d6e1aa76633bf8e422c50f5f0eaf674c30f0302b
+  LetMeAuth-FacebookSDK-iOS: c12a0e503a6c80738ff6092ed66d08a5c43d5bb2
+
+PODFILE CHECKSUM: 116e9f70c42df1fdd688548ca0e90f7b6a93a4a6
+
+COCOAPODS: 1.0.1
